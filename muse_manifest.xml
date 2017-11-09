@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasonhommasillustration.com" resolutions="1x" timestamp="1510211001340">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasonhommasillustration.com" resolutions="1x" timestamp="1510211475687">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3992867092" ref="sample-3:sample-4:index:sample-1:contact:sample-2"/>
@@ -47,7 +47,7 @@
       <caption webpage="sample-4" alt=""/>
       <caption webpage="sample-3" alt=""/>
     </file>
-    <file name="pasted svg 76456x115_poster_.png" crc="214503417" ref="index:contact"/>
+    <file name="pasted svg 76456x115_poster_.png" crc="214503417" ref="index:contact:sample-2"/>
     <file name="pic3.jpg" crc="93274597" seo="true" ref="sample-1">
       <caption webpage="sample-1" alt=""/>
     </file>
@@ -67,7 +67,7 @@
     <file name="comic3.jpg" crc="355932750" seo="true" ref="sample-2">
       <caption webpage="sample-2" alt=""/>
     </file>
-    <file name="u488-4.png" crc="405776276" ref="sample-2"/>
+    <file name="u488-4.png" crc="47811729" ref="sample-2"/>
     <file name="u521-7.png" crc="219731347" ref="sample-3"/>
     <file name="heli1.png" crc="3844090646" seo="true" ref="sample-3">
       <caption webpage="sample-3" alt=""/>
@@ -95,7 +95,7 @@
   </folder>
   <file name="index.html" crc="521953037" seo="true" mt="1510127573867" redirect="true"/>
   <file name="sample-1.html" crc="3957004223" seo="true" mt="1510127573867" redirect="true"/>
-  <file name="sample-2.html" crc="3997384948" seo="true" mt="1510127573867" redirect="true"/>
+  <file name="sample-2.html" crc="3837376344" seo="true" mt="1510211463418" redirect="true"/>
   <file name="sample-3.html" crc="3858035752" seo="true" mt="1510127573867" redirect="true"/>
   <file name="sample-4.html" crc="3846446483" seo="true" mt="1510127573867" redirect="true"/>
   <file name="contact.html" crc="3913347961" seo="true" mt="1510210961260" redirect="true"/>
