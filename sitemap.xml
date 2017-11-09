@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jasonhommasillustration.com/index.html</loc>
-    <lastmod>2017-11-08</lastmod>
+    <lastmod>2017-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,7 +13,52 @@
     </image:image>
   </url>
   <url>
-    <loc>http://jasonhommasillustration.com/sample-2.html</loc>
+    <loc>http://jasonhommasillustration.com/caricatures.html</loc>
+    <lastmod>2017-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/pasted-svg-76456x115.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/pic3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/bride-crop-u432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/obrother-crop-u442.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jasonhommasillustration.com/contact.html</loc>
+    <lastmod>2017-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/pasted-svg-76456x115.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jasonhommasillustration.com/vehicles.html</loc>
+    <lastmod>2017-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/pasted-svg-76456x115.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/heli1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/heli3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jasonhommasillustration.com/images/pic5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jasonhommasillustration.com/comic.html</loc>
     <lastmod>2017-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,26 +76,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://jasonhommasillustration.com/sample-1.html</loc>
-    <lastmod>2017-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/pasted-svg-76456x115.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/pic3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/bride-crop-u432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/obrother-crop-u442.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://jasonhommasillustration.com/sample-4.html</loc>
-    <lastmod>2017-11-08</lastmod>
+    <loc>http://jasonhommasillustration.com/digital.html</loc>
+    <lastmod>2017-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -64,33 +91,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jasonhommasillustration.com/images/theofficenofilter-crop-u534.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://jasonhommasillustration.com/sample-3.html</loc>
-    <lastmod>2017-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/pasted-svg-76456x115.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/heli1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/heli3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/pic5.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://jasonhommasillustration.com/contact.html</loc>
-    <lastmod>2017-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jasonhommasillustration.com/images/pasted-svg-76456x115.svg</image:loc>
     </image:image>
   </url>
   <url>
