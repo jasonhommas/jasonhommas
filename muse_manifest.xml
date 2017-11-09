@@ -1,0 +1,102 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasonhommasillustration.com" resolutions="1x" timestamp="1510127581837">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3992867092" ref="sample-3:sample-4:index:sample-1:contact:sample-2"/>
+    <file name="sample-3.css" crc="48556022" ref="sample-3"/>
+    <file name="sample-4.css" crc="4239064621" ref="sample-4"/>
+    <file name="index.css" crc="3876618588" ref="index"/>
+    <file name="sample-1.css" crc="3940177927" ref="sample-1"/>
+    <file name="contact.css" crc="4100433677" ref="contact"/>
+    <file name="sample-2.css" crc="4199305157" ref="sample-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="hommasj_projectdpart1final.jpg" crc="3801305699" seo="true" mt="1509940348000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u332-6.png" crc="11387832" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u397-4.png" crc="254750590" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="pic1.jpg" crc="4211681191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u345_states.png" crc="157947458" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u345_states-r.png" crc="501020594" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u348_states.png" crc="512583405" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u348_states-r.png" crc="284669995" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u351_states.png" crc="325266923" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u351_states-r.png" crc="318979878" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u356_states.png" crc="508147139" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u356_states-r.png" crc="494354556" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u359_states.png" crc="4048897248" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u359_states-r.png" crc="3894433238" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u362_states.png" crc="3942400495" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="u362_states-r.png" crc="133665639" ref="index:sample-1:sample-2:sample-3:sample-4:contact"/>
+    <file name="pasted-svg-76456x115.svg" crc="3901539588" seo="true" ref="index:sample-1:sample-2:sample-3:sample-4:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sample-2" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="sample-1" alt=""/>
+      <caption webpage="sample-4" alt=""/>
+      <caption webpage="sample-3" alt=""/>
+    </file>
+    <file name="pasted svg 76456x115_poster_.png" crc="214503417" ref="index"/>
+    <file name="pic3.jpg" crc="93274597" seo="true" ref="sample-1">
+      <caption webpage="sample-1" alt=""/>
+    </file>
+    <file name="bride-crop-u432.jpg" crc="271594777" seo="true" ref="sample-1">
+      <caption webpage="sample-1" alt=""/>
+    </file>
+    <file name="obrother-crop-u442.jpg" crc="4160341349" seo="true" ref="sample-1">
+      <caption webpage="sample-1" alt=""/>
+    </file>
+    <file name="u455-4.png" crc="3771008155" ref="sample-1"/>
+    <file name="comic1.jpg" crc="4293079961" seo="true" ref="sample-2">
+      <caption webpage="sample-2" alt=""/>
+    </file>
+    <file name="comic2.jpg" crc="3791948121" seo="true" ref="sample-2">
+      <caption webpage="sample-2" alt=""/>
+    </file>
+    <file name="comic3.jpg" crc="355932750" seo="true" ref="sample-2">
+      <caption webpage="sample-2" alt=""/>
+    </file>
+    <file name="u488-4.png" crc="405776276" ref="sample-2"/>
+    <file name="u521-7.png" crc="219731347" ref="sample-3"/>
+    <file name="heli1.png" crc="3844090646" seo="true" ref="sample-3">
+      <caption webpage="sample-3" alt=""/>
+    </file>
+    <file name="heli3.png" crc="199256571" seo="true" ref="sample-3">
+      <caption webpage="sample-3" alt=""/>
+    </file>
+    <file name="pic5.jpg" crc="4248574233" seo="true" ref="sample-3">
+      <caption webpage="sample-3" alt=""/>
+    </file>
+    <file name="oktober-crop-u524.jpg" crc="56402377" seo="true" ref="sample-4">
+      <caption webpage="sample-4" alt=""/>
+    </file>
+    <file name="u544-5.png" crc="3899388883" ref="sample-4"/>
+    <file name="deer-crop-u568.jpg" crc="3961857910" seo="true" ref="sample-4">
+      <caption webpage="sample-4" alt=""/>
+    </file>
+    <file name="theofficenofilter-crop-u534.jpg" crc="3826726694" seo="true" ref="sample-4">
+      <caption webpage="sample-4" alt=""/>
+    </file>
+    <file name="u547-9.png" crc="373814918" ref="contact"/>
+    <file name="u562-4.png" crc="338855707" ref="contact"/>
+    <file name="u556_states.png" crc="156337628" ref="contact"/>
+    <file name="u556_states-r.png" crc="189697453" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="521953037" seo="true" mt="1510127573867" redirect="true"/>
+  <file name="sample-1.html" crc="3957004223" seo="true" mt="1510127573867" redirect="true"/>
+  <file name="sample-2.html" crc="3997384948" seo="true" mt="1510127573867" redirect="true"/>
+  <file name="sample-3.html" crc="3858035752" seo="true" mt="1510127573867" redirect="true"/>
+  <file name="sample-4.html" crc="3846446483" seo="true" mt="1510127573867" redirect="true"/>
+  <file name="contact.html" crc="72802628" seo="true" mt="1510127573867" redirect="true"/>
+</manifest>
