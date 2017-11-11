@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasonhommasillustration.com" resolutions="1x" timestamp="1510370303530">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jasonhommasillustration.com" resolutions="1x" timestamp="1510381439950">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4024840798" ref="index:contact:vehicles:digital:caricatures:comic"/>
+    <file name="master_a-master.css" crc="8871900" ref="index:contact:vehicles:digital:caricatures:comic"/>
     <file name="index.css" crc="4112855396" ref="index"/>
     <file name="contact.css" crc="3894807761" ref="contact"/>
     <file name="vehicles.css" crc="5357262" ref="vehicles"/>
@@ -30,27 +30,27 @@
     <file name="u345_states-r.png" crc="501020594" ref="index:contact:caricatures:comic:vehicles:digital"/>
     <file name="u348_states.png" crc="512583405" ref="index:contact:caricatures:comic:vehicles:digital"/>
     <file name="u348_states-r.png" crc="284669995" ref="index:contact:caricatures:comic:vehicles:digital"/>
-    <file name="u351_states.png" crc="325266923" ref="index:contact:caricatures:comic:vehicles:digital"/>
-    <file name="u351_states-r.png" crc="318979878" ref="index:contact:caricatures:comic:vehicles:digital"/>
-    <file name="u356_states.png" crc="508147139" ref="index:contact:caricatures:comic:vehicles:digital"/>
-    <file name="u356_states-r.png" crc="494354556" ref="index:contact:caricatures:comic:vehicles:digital"/>
-    <file name="u359_states.png" crc="4048897248" ref="index:contact:caricatures:comic:vehicles:digital"/>
-    <file name="u359_states-r.png" crc="3894433238" ref="index:contact:caricatures:comic:vehicles:digital"/>
+    <file name="u351_states.png" crc="386981250" ref="index:contact:caricatures:comic:vehicles:digital"/>
+    <file name="u351_states-r.png" crc="10701419" ref="index:contact:caricatures:comic:vehicles:digital"/>
+    <file name="u356_states.png" crc="310163875" ref="index:contact:caricatures:comic:vehicles:digital"/>
+    <file name="u356_states-r.png" crc="201198093" ref="index:contact:caricatures:comic:vehicles:digital"/>
+    <file name="u359_states.png" crc="3800691123" ref="index:contact:caricatures:comic:vehicles:digital"/>
+    <file name="u359_states-r.png" crc="523601777" ref="index:contact:caricatures:comic:vehicles:digital"/>
     <file name="u362_states.png" crc="3942400495" ref="index:contact:caricatures:comic:vehicles:digital"/>
     <file name="u362_states-r.png" crc="133665639" ref="index:contact:caricatures:comic:vehicles:digital"/>
     <file name="pasted-svg-76456x115.svg" crc="3901539588" seo="true" ref="index:contact:caricatures:comic:vehicles:digital">
       <caption webpage="sample-2" alt=""/>
-      <caption webpage="digital" alt=""/>
+      <caption webpage="caricatures" alt=""/>
       <caption webpage="sample-3" alt=""/>
       <caption webpage="sample-4" alt=""/>
-      <caption webpage="caricatures" alt=""/>
+      <caption webpage="digital" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="sample-1" alt=""/>
       <caption webpage="vehicles" alt=""/>
       <caption webpage="comic" alt=""/>
     </file>
-    <file name="pasted svg 76456x115_poster_.png" crc="214503417" ref="index:caricatures"/>
+    <file name="pasted svg 76456x115_poster_.png" crc="214503417" ref="index"/>
     <file name="pic3.jpg" crc="93274597" seo="true" ref="caricatures">
       <caption webpage="caricatures" alt=""/>
       <caption webpage="sample-1" alt=""/>
@@ -110,10 +110,10 @@
     <file name="u397_states.png" crc="74300148" ref="index:caricatures:comic:vehicles:digital:contact"/>
     <file name="u397_states-r.png" crc="4181643006" ref="index:caricatures:comic:vehicles:digital:contact"/>
   </folder>
-  <file name="index.html" crc="4291344036" seo="true" mt="1510370294584" redirect="true"/>
-  <file name="contact.html" crc="408530291" seo="true" mt="1510369397920" redirect="true"/>
-  <file name="caricatures.html" crc="399786355" seo="true" mt="1510369889211" redirect="true"/>
-  <file name="comic.html" crc="4144860148" seo="true" mt="1510369366072" redirect="true"/>
-  <file name="vehicles.html" crc="186666696" seo="true" mt="1510369376584" redirect="true"/>
-  <file name="digital.html" crc="4009666738" seo="true" mt="1510369387472" redirect="true"/>
+  <file name="index.html" crc="3981522719" seo="true" mt="1510381418411" redirect="true"/>
+  <file name="contact.html" crc="120908226" seo="true" mt="1510381418411" redirect="true"/>
+  <file name="caricatures.html" crc="258732735" seo="true" mt="1510381418411" redirect="true"/>
+  <file name="comic.html" crc="31488" seo="true" mt="1510381418411" redirect="true"/>
+  <file name="vehicles.html" crc="515177420" seo="true" mt="1510381418411" redirect="true"/>
+  <file name="digital.html" crc="463884762" seo="true" mt="1510381418411" redirect="true"/>
 </manifest>
